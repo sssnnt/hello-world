@@ -1,0 +1,117 @@
+[33mcommit fd2f8203d2a7070857836bf57bf2e170efa8c240[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:47:31 2016 +0200
+
+    Edited result file
+
+[33mcommit d5e33be3987a4e6bcc69b179a9c764edcdba0eec[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:43:42 2016 +0200
+
+    Edied
+
+[33mcommit 04fa9283190d0ce8cb057714890e11062495929f[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:37:07 2016 +0200
+
+    Edited something
+
+[33mcommit f869c9d8c00557de8d6d58dc5f34d4720e70fa6e[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:36:04 2016 +0200
+
+    Added two files on branch
+
+[33mcommit 01377ee74a9ca036cb30e726304c9f6c323ccdac[m
+Merge: 55a5891 f78bf51
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:29:57 2016 +0200
+
+    Merge branch 'borkempire-edits'
+
+[33mcommit f78bf51faae05ba8591f34f5d3b9b06b8d569cd5[m
+Merge: 55a5891 98cbaa5
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:29:14 2016 +0200
+
+    Merge branch 'edits' of https://github.com/borkempire/hello-world into borkempire-edits
+
+[33mcommit 98cbaa555706296e8ece048ddd71e1cab17110f2[m
+Author: even.nordstad <even.nordstad@scania.com>
+Date:   Fri Sep 30 13:21:09 2016 +0200
+
+    or is it
+
+[33mcommit 55a589171519d00cc5d3c0582dfb93d0c4a44111[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:20:26 2016 +0200
+
+    Update README.md
+
+[33mcommit a53c6701167aa980e1db02f9424a2eebb329ca79[m
+Merge: 4309c72 41b18d3
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:11:19 2016 +0200
+
+    Merge pull request #4 from sssnnt/revert-3-revert-2-edits
+    
+    Revert "Revert "added some important info""
+
+[33mcommit 41b18d395567ca039ba9f917acfc08a7b22cb1ca[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:10:48 2016 +0200
+
+    Revert "Revert "added some important info""
+
+[33mcommit 4309c7293d216a33bb979288e35c4f5e9b96ef2e[m
+Merge: 3a095d6 54710cd
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:09:59 2016 +0200
+
+    Merge pull request #3 from sssnnt/revert-2-edits
+    
+    Revert "added some important info"
+
+[33mcommit 54710cd67bbd7bc28ad72703191af0d61d59b49c[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:09:11 2016 +0200
+
+    Revert "added some important info"
+
+[33mcommit 3a095d624e46f3c5a3f21ae380e085ba6654b1a2[m
+Merge: 716e4a4 1a96eba
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Fri Sep 30 13:08:04 2016 +0200
+
+    Merge pull request #2 from borkempire/edits
+    
+    added some important info
+
+[33mcommit 1a96eba5d56bb072ac08f6d43a3d712ef31da566[m
+Author: even.nordstad <even.nordstad@scania.com>
+Date:   Fri Sep 30 12:51:23 2016 +0200
+
+    added some important info
+
+[33mcommit 716e4a4d440b453c0047a063180323d7e8141c38[m
+Merge: 944db42 3c6fd49
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Thu Jul 7 13:23:52 2016 +0200
+
+    Merge pull request #1 from sssnnt/readme-edits
+    
+    Update README.md
+
+[33mcommit 3c6fd4999a48c89e54ce0bea731013d5c46655e2[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Thu Jul 7 13:19:03 2016 +0200
+
+    Update README.md
+    
+    Initializing README file
+
+[33mcommit 944db421e2d320d210f9ddba6ce974bdde01c4dd[m
+Author: Lennart Kjellén <lennart.kjellen@scania.com>
+Date:   Thu Jul 7 13:14:29 2016 +0200
+
+    Initial commit
